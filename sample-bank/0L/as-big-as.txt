@@ -1,0 +1,12 @@
+Mat had a hat.
+The hat was as big as a box.
+Sam had a frog.
+The frog was as wet as a drop.
+Dot had a hen.
+The hen was as soft as a cat.
+The hen was in the hat.
+The frog was in the hat.
+The hat was not big.
+Put the hen in the hat.
+Put the frog in the box.
+The End.

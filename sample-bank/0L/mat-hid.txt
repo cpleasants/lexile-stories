@@ -1,0 +1,10 @@
+Mat hid.
+Sam saw Mat. Sam ran to Mat.
+Dot hid.
+Sam and Mat saw Dot.
+Sam and Mat ran to Dot.
+Mat, Sam, and Dot hid.
+Ted saw a dog.
+Ted ran to the dog.
+Ted saw Mat, Sam, and Dot.
+The End.
